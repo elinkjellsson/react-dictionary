@@ -19,3 +19,8 @@ footer {
   padding: 15px;
   border-radius: 10px;
 }
+.App #open-source-link {
+  text-decoration: none;
+  color: #596e79;
+  font-weight: bolder;
+}
