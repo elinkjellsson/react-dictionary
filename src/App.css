@@ -5,5 +5,17 @@ h1 {
 
 footer {
   text-align: center;
-  margin: 30px 0;
+  margin: 10px 0;
+  color: #596e79;
+}
+
+.wrapper {
+  max-width: 600px;
+  margin: 20px auto;
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+  background: #dfd3c3;
+  padding: 15px;
+  border-radius: 10px;
 }
