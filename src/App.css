@@ -1,6 +1,8 @@
-h1 {
+.App h1 {
   text-align: center;
-  padding: 20px;
+  padding: 10px;
+  font-size: bold;
+  font-size: 48px;
 }
 
 footer {
@@ -9,18 +11,13 @@ footer {
   color: #596e79;
 }
 
-.wrapper {
-  max-width: 600px;
-  margin: 20px auto;
-  display: block;
-  position: relative;
-  box-sizing: border-box;
-  background: #dfd3c3;
-  padding: 15px;
-  border-radius: 10px;
-}
 .App #open-source-link {
   text-decoration: none;
   color: #596e79;
   font-weight: bolder;
+}
+
+.App body {
+  background-color: #dfd3c3;
+  padding: 60px 0 100px;
 }
